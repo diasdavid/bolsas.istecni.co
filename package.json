@@ -8,7 +8,7 @@
     "htmlparser": ">= 1.6.2",
     "nodeunit": ">= 0.3.0",
     "hapi": "~6.2.0",
-    "mongoose": "~3.8.13",
+    "mongoose": "~5.9.26",
     "mailchimp-api": "~2.0.6",
     "cron": "~1.0.4",
     "time": "~0.11.0",
